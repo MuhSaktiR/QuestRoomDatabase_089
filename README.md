@@ -8,7 +8,7 @@
 ![Screenshot 2024-12-16 164110](https://github.com/user-attachments/assets/76ac6bf3-a750-4b04-a1ed-67b6464fc05f)
 
 
-3. Halaman Home ( Ada Data )
+3. Halaman Home ( Ada Data Setelah Insert Data )
 
 ![Screenshot 2024-12-16 164136](https://github.com/user-attachments/assets/59bd0ff4-a664-4a7f-900e-e1f1cfe98bfd)
 
@@ -41,7 +41,8 @@
 ![Screenshot 2024-12-16 164305](https://github.com/user-attachments/assets/bf5983f0-683f-4ef5-b087-9453f9b5c7b8)
 
 
-Hasil Data Dihapus dari Halaman Detail 
+Hasil Data Dihapus dari Halaman Detail,
+
 Tampilan Pada Halaman Home ( Data terhapus )
 
 ![Screenshot 2024-12-16 164315](https://github.com/user-attachments/assets/2156608c-4115-403c-b286-ee60b40cccb3)
