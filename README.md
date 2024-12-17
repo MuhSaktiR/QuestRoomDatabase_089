@@ -13,7 +13,7 @@
 ![Screenshot 2024-12-16 164136](https://github.com/user-attachments/assets/59bd0ff4-a664-4a7f-900e-e1f1cfe98bfd)
 
 
-4. Halaman Detail ( Tampilkan Data Pilihan )
+4. Halaman Detail ( Menampilkan Data Pilihan )
 
 ![Screenshot 2024-12-16 164145](https://github.com/user-attachments/assets/98f0e701-40d6-4988-89d3-d3d4dbf4176f)
 
